@@ -1,6 +1,6 @@
 # Web Scraping Project
 
-This Python project involves web scraping information from the [HP Laptops & Tablets](https://www.hp.com/my-en/shop/laptops-tablets/laptop-gaming.html) webpage to gather essential data. The collected data is stored in a CSV file and utilized to generate a chart that visualizes specific laptop features.
+This Python project involves web scraping information from the [HP Gaming Laptop](https://www.hp.com/my-en/shop/laptops-tablets/laptop-gaming.html) webpage to gather essential data. The collected data is stored in a CSV file and utilized to generate a chart that visualizes specific laptop features.
 
 ## Features
 
